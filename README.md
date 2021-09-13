@@ -1,2 +1,2 @@
 # Database-Project
-Project Related Others file is in main braches.
+Project Related Others file is in main branches.
